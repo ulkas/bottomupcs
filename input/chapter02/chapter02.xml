@@ -13,10 +13,7 @@
       </info>
       <mediaobject>
         <imageobject>
-          <imagedata fileref="chapter02/figures/computer.eps" format="EPS"/>
-        </imageobject>
-        <imageobject>
-          <imagedata fileref="figures/computer.svg" format="SVG" />
+          <imagedata fileref="chapter02/figures/computer.svg" format="SVG" />
         </imageobject>
         <imageobject>
           <imagedata fileref="chapter02/figures/computer.png" format="PNG"/>
@@ -137,10 +134,7 @@
           </info>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="chapter02/figures/block.eps" format="EPS"/>
-            </imageobject>
-            <imageobject>
-              <imagedata fileref="figures/block.svg" format="SVG" />
+              <imagedata fileref="chapter02/figures/block.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter02/figures/block.png" format="PNG"/>
@@ -527,11 +521,8 @@
           <title>Cache Associativity</title>
         </info>
         <mediaobject>
-          <imageobject>
-            <imagedata fileref="chapter02/figures/sets.eps" format="EPS"/>
-          </imageobject>
           <imageobject >
-            <imagedata fileref="figures/sets.svg" format="SVG" />
+            <imagedata fileref="chapter02/figures/sets.svg" format="SVG" />
           </imageobject>
           <imageobject role="html">
             <imagedata fileref="chapter02/figures/sets.png" format="PNG"/>
@@ -644,11 +635,8 @@
             <title>Cache tags</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter02/figures/tags.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/tags.svg" format="SVG" />
+              <imagedata fileref="chapter02/figures/tags.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter02/figures/tags.png" format="PNG"/>
@@ -754,11 +742,8 @@ multiplex the output of the many sets, which can also add latency.
             <title>Overview of handling an interrupt</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter02/figures/interrupt.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/interrupt.svg" format="SVG" />
+              <imagedata fileref="chapter02/figures/interrupt.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter02/figures/interrupt.png" format="PNG"/>
@@ -957,11 +942,8 @@ multiplex the output of the many sets, which can also add latency.
             <title>Overview of a UHCI controller operation</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter02/images/uhci.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="images/uhci.svg" format="SVG" />
+              <imagedata fileref="chapter02/images/uhci.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter02/images/uhci.png" format="PNG"/>
@@ -1307,11 +1289,8 @@ multiplex the output of the many sets, which can also add latency.
             <title>A Hypercube</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter02/figures/hypercube.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/hypercube.svg" format="SVG" />
+              <imagedata fileref="chapter02/figures/hypercube.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter02/figures/hypercube.png" format="PNG"/>
@@ -1470,11 +1449,8 @@ multiplex the output of the many sets, which can also add latency.
           <title>Acquire and Release semantics</title>
         </info>
         <mediaobject>
-          <imageobject>
-            <imagedata fileref="chapter02/figures/memorder.eps" format="EPS"/>
-          </imageobject>
           <imageobject >
-            <imagedata fileref="figures/memorder.svg" format="SVG" />
+            <imagedata fileref="chapter02/figures/memorder.svg" format="SVG" />
           </imageobject>
           <imageobject role="html">
             <imagedata fileref="chapter02/figures/memorder.png" format="PNG"/>

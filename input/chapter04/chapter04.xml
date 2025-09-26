@@ -22,11 +22,8 @@
         <title>The Elements of a Process</title>
       </info>
       <mediaobject>
-        <imageobject>
-          <imagedata fileref="chapter04/figures/theprocess.eps" format="EPS"/>
-        </imageobject>
         <imageobject >
-          <imagedata fileref="figures/theprocess.svg" format="SVG" />
+          <imagedata fileref="chapter04/figures/theprocess.svg" format="SVG" />
         </imageobject>
         <imageobject role="html">
           <imagedata fileref="chapter04/figures/theprocess.png" format="PNG"/>
@@ -123,11 +120,8 @@
             <title>The Stack</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter04/figures/stack.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/stack.svg" format="SVG" />
+              <imagedata fileref="chapter04/figures/stack.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter04/figures/stack.png" format="PNG"/>
@@ -302,11 +296,8 @@
             <title>Process memory layout</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter04/figures/memory-layout.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/memory-layout.svg" format="SVG" />
+              <imagedata fileref="chapter04/figures/memory-layout.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter04/figures/memory-layout.png" format="PNG"/>
@@ -526,11 +517,8 @@
               <title>Threads</title>
             </info>
             <mediaobject>
-              <imageobject>
-                <imagedata fileref="chapter04/figures/threads.eps" format="EPS"/>
-              </imageobject>
               <imageobject >
-                <imagedata fileref="figures/threads.svg" format="SVG" />
+                <imagedata fileref="chapter04/figures/threads.svg" format="SVG" />
               </imageobject>
               <imageobject role="html">
                 <imagedata fileref="chapter04/figures/threads.png" format="PNG"/>
@@ -815,11 +803,8 @@ longer and longer to decide which processes will run next.</para>
           <title>The O(1) scheduler</title>
         </info>
         <mediaobject>
-          <imageobject>
-            <imagedata fileref="chapter04/figures/o1queue.eps" format="EPS"/>
-          </imageobject>
           <imageobject >
-            <imagedata fileref="figures/o1queue.svg" format="SVG" />
+            <imagedata fileref="chapter04/figures/o1queue.svg" format="SVG" />
           </imageobject>
           <imageobject role="html">
             <imagedata fileref="chapter04/figures/o1queue.png" format="PNG"/>

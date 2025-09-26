@@ -74,11 +74,8 @@
         <title>Abstraction</title>
       </info>
       <mediaobject>
-        <imageobject>
-          <imagedata fileref="chapter00/figures/abstraction.eps" format="EPS"/>
-        </imageobject>
         <imageobject >
-          <imagedata fileref="figures/abstraction.svg" format="SVG" />
+          <imagedata fileref="chapter00/figures/abstraction.svg" format="SVG" />
         </imageobject>
         <imageobject role="html">
           <imagedata fileref="chapter00/figures/abstraction.png" format="PNG"/>
@@ -288,11 +285,8 @@
         <title>Default Unix Files</title>
       </info>
       <mediaobject>
-        <imageobject>
-          <imagedata fileref="chapter00/figures/stdfds.eps" format="EPS"/>
-        </imageobject>
         <imageobject >
-          <imagedata fileref="figures/stdfds.svg" format="SVG" />
+          <imagedata fileref="chapter00/figures/stdfds.svg" format="SVG" />
         </imageobject>
         <imageobject role="html">
           <imagedata fileref="chapter00/figures/stdfds.png" format="PNG"/>
@@ -312,11 +306,8 @@
         <title>Abstraction</title>
       </info>
       <mediaobject>
-        <imageobject>
-          <imagedata fileref="chapter00/figures/file-descriptors.eps" format="EPS"/>
-        </imageobject>
         <imageobject >
-          <imagedata fileref="figures/file-descriptors.svg" format="SVG" />
+          <imagedata fileref="chapter00/figures/file-descriptors.svg" format="SVG" />
         </imageobject>
         <imageobject role="html">
           <imagedata fileref="chapter00/figures/file-descriptors.png" format="PNG"/>
@@ -517,11 +508,8 @@
             <title>A pipe in action</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter00/figures/pipe.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/pipe.svg" format="SVG" />
+              <imagedata fileref="chapter00/figures/pipe.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter00/figures/pipe.png" format="PNG"/>

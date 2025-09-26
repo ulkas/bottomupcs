@@ -80,11 +80,8 @@
             <title>Illustration of canonical addresses</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter05/figures/canonical.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/canonical.svg" format="SVG" />
+              <imagedata fileref="chapter05/figures/canonical.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter05/figures/canonical.png" format="PNG"/>
@@ -156,11 +153,8 @@
         <title>Virtual memory pages</title>
       </info>
       <mediaobject>
-        <imageobject>
-          <imagedata fileref="chapter05/figures/page.eps" format="EPS"/>
-        </imageobject>
         <imageobject >
-          <imagedata fileref="figures/page.svg" format="SVG" />
+          <imagedata fileref="chapter05/figures/page.svg" format="SVG" />
         </imageobject>
         <imageobject role="html">
           <imagedata fileref="chapter05/figures/page.png" format="PNG"/>
@@ -289,11 +283,8 @@
           <title>Virtual Address Translation</title>
         </info>
         <mediaobject>
-          <imageobject>
-            <imagedata fileref="chapter05/figures/virtaddress.eps" format="EPS"/>
-          </imageobject>
           <imageobject >
-            <imagedata fileref="figures/virtaddress.svg" format="SVG" />
+            <imagedata fileref="chapter05/figures/virtaddress.svg" format="SVG" />
           </imageobject>
           <imageobject role="html">
             <imagedata fileref="chapter05/figures/virtaddress.png" format="PNG"/>
@@ -565,11 +556,8 @@
             <title>Segmentation</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter05/figures/segmentation.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/segmentation.svg" format="SVG" />
+              <imagedata fileref="chapter05/figures/segmentation.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter05/figures/segmentation.png" format="PNG"/>
@@ -816,11 +804,8 @@
           <title>Linux address space layout</title>
         </info>
         <mediaobject>
-          <imageobject>
-            <imagedata fileref="chapter05/figures/linux-layout.eps" format="EPS"/>
-          </imageobject>
           <imageobject >
-            <imagedata fileref="figures/linux-layout.svg" format="SVG" />
+            <imagedata fileref="chapter05/figures/linux-layout.svg" format="SVG" />
           </imageobject>
           <imageobject role="html">
             <imagedata fileref="chapter05/figures/linux-layout.png" format="PNG"/>
@@ -864,11 +849,8 @@
           <title>Linux Three Level Page Table</title>
         </info>
         <mediaobject>
-          <imageobject>
-            <imagedata fileref="chapter05/figures/threelevel.eps" format="EPS"/>
-          </imageobject>
           <imageobject >
-            <imagedata fileref="figures/threelevel.svg" format="SVG" />
+            <imagedata fileref="chapter05/figures/threelevel.svg" format="SVG" />
           </imageobject>
           <imageobject role="html">
             <imagedata fileref="chapter05/figures/threelevel.png" format="PNG"/>
@@ -952,11 +934,8 @@
             <title>Illustration Itanium regions and protection keys</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter05/figures/ia64-regions-keys.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/ia64-regions-keys.svg" format="SVG" />
+              <imagedata fileref="chapter05/figures/ia64-regions-keys.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter05/figures/ia64-regions-keys.png" format="PNG"/>
@@ -985,11 +964,8 @@
             <title>Illustration of Itanium TLB translation</title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter05/figures/ia64-tlb-translation.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/ia64-tlb-translation.svg" format="SVG" />
+              <imagedata fileref="chapter05/figures/ia64-tlb-translation.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter05/figures/ia64-tlb-translation.png" format="PNG"/>
@@ -1085,11 +1061,8 @@
               <title>Illustration of a hierarchical page-table</title>
             </info>
             <mediaobject>
-              <imageobject>
-                <imagedata fileref="chapter05/figures/hierarchical-pt.eps" format="EPS"/>
-              </imageobject>
               <imageobject >
-                <imagedata fileref="figures/hierarchical-pt.svg" format="SVG" />
+                <imagedata fileref="chapter05/figures/hierarchical-pt.svg" format="SVG" />
               </imageobject>
               <imageobject role="html">
                 <imagedata fileref="chapter05/figures/hierarchical-pt.png" format="PNG"/>
@@ -1121,11 +1094,8 @@
               <title>Itanium short-format VHPT implementation</title>
             </info>
             <mediaobject>
-              <imageobject>
-                <imagedata fileref="chapter05/figures/ia64-short-format.eps" format="EPS"/>
-              </imageobject>
               <imageobject >
-                <imagedata fileref="figures/ia64-short-format.svg" format="SVG" />
+                <imagedata fileref="chapter05/figures/ia64-short-format.svg" format="SVG" />
               </imageobject>
               <imageobject role="html">
                 <imagedata fileref="chapter05/figures/ia64-short-format.png" format="PNG"/>
@@ -1146,11 +1116,8 @@
               <title>Itanium PTE entry formats</title>
             </info>
             <mediaobject>
-              <imageobject>
-                <imagedata fileref="chapter05/figures/ia64-ptes.eps" format="EPS"/>
-              </imageobject>
               <imageobject >
-                <imagedata fileref="figures/ia64-ptes.svg" format="SVG" />
+                <imagedata fileref="chapter05/figures/ia64-ptes.svg" format="SVG" />
               </imageobject>
               <imageobject role="html">
                 <imagedata fileref="chapter05/figures/ia64-ptes.png" format="PNG"/>

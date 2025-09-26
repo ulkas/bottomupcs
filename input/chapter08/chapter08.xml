@@ -350,11 +350,8 @@
           <title>Memory access via the GOT</title>
         </info>
         <mediaobject>
-          <imageobject>
-            <imagedata fileref="chapter08/figures/got-plt.eps" format="EPS"/>
-          </imageobject>
           <imageobject >
-            <imagedata fileref="figures/got-plt.svg" format="SVG" />
+            <imagedata fileref="chapter08/figures/got-plt.svg" format="SVG" />
           </imageobject>
           <imageobject role="html">
             <imagedata fileref="chapter08/figures/got-plt.png" format="PNG"/>
@@ -839,11 +836,8 @@
             </title>
           </info>
           <mediaobject>
-            <imageobject>
-              <imagedata fileref="chapter08/figures/libs.eps" format="EPS"/>
-            </imageobject>
             <imageobject >
-              <imagedata fileref="figures/libs.svg" format="SVG" />
+              <imagedata fileref="chapter08/figures/libs.svg" format="SVG" />
             </imageobject>
             <imageobject role="html">
               <imagedata fileref="chapter08/figures/libs.png" format="PNG"/>

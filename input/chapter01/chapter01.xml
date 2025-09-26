@@ -1187,13 +1187,7 @@
             </info>
             <mediaobject>
               <imageobject>
-                <imagedata fileref="chapter01/figures/masking.eps" format="EPS"/>
-              </imageobject>
-              <imageobject>
-                <imagedata fileref="figures/masking.svg" format="SVG"/>
-              </imageobject>
-              <imageobject role="html">
-                <imagedata fileref="chapter01/figures/masking.png" format="PNG"/>
+                <imagedata fileref="chapter01/figures/masking.svg" format="SVG"/>
               </imageobject>
               <textobject>
                 <phrase>By using a <emphasis>mask</emphasis> consisting
@@ -1347,10 +1341,7 @@
         </info>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="chapter01/figures/types.eps" format="EPS"/>
-          </imageobject>
-          <imageobject>
-            <imagedata fileref="figures/types.svg" format="SVG"/>
+            <imagedata fileref="chapter01/figures/types.svg" format="SVG"/>
           </imageobject>
           <imageobject>
             <imagedata fileref="chapter01/figures/types.png" format="PNG"/>

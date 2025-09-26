@@ -139,11 +139,8 @@
           <title>ELF Overview</title>
         </info>
         <mediaobject>
-          <imageobject>
-            <imagedata fileref="chapter07/figures/elf-overview.eps" format="EPS"/>
-          </imageobject>
           <imageobject >
-            <imagedata fileref="figures/elf-overview.svg" format="SVG" />
+            <imagedata fileref="chapter07/figures/elf-overview.svg" format="SVG" />
           </imageobject>
           <imageobject role="html">
             <imagedata fileref="chapter07/figures/elf-overview.png" format="PNG"/>

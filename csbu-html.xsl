@@ -15,12 +15,10 @@
 <!-- This href has to point to your local copy
      of the stylesheets. -->
 
-<xsl:import href="docbook-xslTNG-1.11.1/xslt/docbook.xsl"/>
+<xsl:import href="docbook-xslTNG-2.6.1/xslt/docbook.xsl"/>
 
 <xsl:param name="chunk" select="'index.html'" />
-<xsl:param name="chunk-output-base-uri" select="'.'" />
-<xsl:param name="verbatim-syntax-highlighter" select="'highlight.js'" />
-<xsl:param name="persistent-toc" select="'true'" />
+<xsl:param name="verbatim-syntax-highlight-languages" select="'c'" />
 
 <xsl:template match="*" mode="m:html-head-links">
   <xsl:next-match/>
@@ -33,7 +31,6 @@
           src="https://kit.fontawesome.com/c94d537c36.js" crossorigin="anonymous"/>
 </xsl:template>
 
-
 <xsl:template name="t:top-nav">
   <xsl:param name="docbook" as="node()" tunnel="yes"/>
   <xsl:param name="node" as="element()"/>
@@ -41,6 +38,7 @@
   <xsl:param name="next" as="element()?"/>
   <xsl:param name="up" as="element()?"/>
   <xsl:param name="top" as="element()?"/>
+  <xsl:param name="chunk" as="xs:boolean"/>
 
   <span class="nav">
     <a title="{$docbook/db:book/db:info/db:title}" href="{$top/@db-chunk/string()}">
@@ -99,7 +97,6 @@
     <!-- no logo -->
   </span>
 </xsl:template>
-
 
 <xsl:function name="f:title-content" as="node()*">
   <xsl:param name="node" as="element()?"/>
